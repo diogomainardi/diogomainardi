@@ -2,3 +2,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=Olá,+Meu+nome+é+Diogo+Mainardi;Eu+tenho+18+anos;Sou+do+Brasil;Cientista+De+Dados;Seja+Bem+vindo!+:%29)](htt ps://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+

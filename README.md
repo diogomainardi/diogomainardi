@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300FF&height=120&section=header"/>
+#### Especialista em Publicidade Online e Estudante de Ciência de Dados
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+USA+Traditional&duration=4000&pause=200&color=2DFF40&background=490AAC00&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ola%2C+meu+nome+%C3%A9+Diogo;Sou+do+Brasil;Tenho+18+anos;Sou+Cientista+de+Dados)](https://git.io/typing-svg)
-
- ![Python](https://img.shields.io/badge/Python-33CC00?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-808080?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+<div display= "inline">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" />
+ &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />
+</div>
